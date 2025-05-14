@@ -108,7 +108,7 @@ The full project listings begin below. To avoid clutter here, each section is in
 Contributions are very welcome — please share back with the wider community and get credited for it!
 
 - 📜 Read our [Contributing Guidelines](../CONTRIBUTING.md) to learn how to submit your ideas.
-- 📄 Review the [License Policy](../LICENSE.md) for usage and sharing terms.
+- 📄 Review the [MIT License](https://github.com/Duncan1738/Awesome-AI-Data-Guided-Projects/blob/main/LICENSE) for usage and sharing terms.
 
 Together, we build better AI tools and educational resources.
 
