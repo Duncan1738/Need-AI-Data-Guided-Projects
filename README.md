@@ -103,6 +103,17 @@ The full project listings begin below. To avoid clutter here, each section is in
 
 🔁 _More projects being added regularly..._
 
+## 🤝 Contributing
+
+Contributions are very welcome — please share back with the wider community and get credited for it!
+
+- 📜 Read our [Contributing Guidelines](../CONTRIBUTING.md) to learn how to submit your ideas.
+- 📄 Review the [License Policy](../LICENSE.md) for usage and sharing terms.
+
+Together, we build better AI tools and educational resources.
+
 ---
 
-👋 
+🔁 _More projects and curated notebooks coming soon..._
+
+👋 Happy Learning!
