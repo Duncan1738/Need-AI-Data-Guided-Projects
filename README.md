@@ -96,7 +96,7 @@ The full project listings begin below. To avoid clutter here, each section is in
 - [Book Recommendation Engine with Cosine Similarity](https://towardsdatascience.com/building-a-book-recommender-system-using-cosine-similarity-dc5188ff8742)
 
 ### MLOps
-- [ML Monitoring with Docker + Airflow](https://www.projectpro.io/project-use-case/ml-model-monitoring-using-apache-airflow-and-docker)
+- [ML Monitoring with Docker + Airflow](https://github.com/AjNavneet/Loan-Eligibility-Prediction-Pipeline-Airflow-Docker)
 - [End-to-End Deployment: Streamlit + FastAPI + Huggingface](https://medium.com/data-science/end-to-end-nlp-project-with-hugging-face-fastapi-and-docker-615a63d80c53)
 
 ---
