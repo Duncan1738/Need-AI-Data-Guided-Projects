@@ -97,7 +97,7 @@ The full project listings begin below. To avoid clutter here, each section is in
 
 ### MLOps
 - [ML Monitoring with Docker + Airflow](https://www.projectpro.io/project-use-case/ml-model-monitoring-using-apache-airflow-and-docker)
-- [End-to-End Deployment: Streamlit + FastAPI + Huggingface](https://github.com/Jcharis/streamlit-fastapi-huggingface)
+- [End-to-End Deployment: Streamlit + FastAPI + Huggingface](https://medium.com/data-science/end-to-end-nlp-project-with-hugging-face-fastapi-and-docker-615a63d80c53)
 
 ---
 
