@@ -89,7 +89,7 @@ The full project listings begin below. To avoid clutter here, each section is in
 
 ### NLP Projects
 - [NER with SpaCy](https://www.geeksforgeeks.org/named-entity-recognition-ner-using-spacy/)
-- [Text Summarization Transformers](https://www.analyticsvidhya.com/blog/2020/11/text-summarization-approaches-nlp/)
+- [Text Summarization Transformers](https://medium.com/@govindarajpriyanthan/text-summarization-with-hugging-face-transformers-2e9abf29c52f)
 
 ### Recommender Systems
 - [Hybrid Recommender System - YouTube](https://www.youtube.com/watch?v=zv7Q1Hh1uG8)
