@@ -88,7 +88,7 @@ The full project listings begin below. To avoid clutter here, each section is in
 - [YOLOv8 Deployment App](https://github.com/ultralytics/ultralytics)
 
 ### NLP Projects
-- [NER with SpaCy](https://www.geeksforgeeks.org/named-entity-recognition-ner-using-spacy/)
+- [NER with SpaCy](https://medium.com/@sanskrutikhedkar09/mastering-information-extraction-from-unstructured-text-a-deep-dive-into-named-entity-recognition-4aa2f664a453/)
 - [Text Summarization Transformers](https://medium.com/@govindarajpriyanthan/text-summarization-with-hugging-face-transformers-2e9abf29c52f)
 
 ### Recommender Systems
