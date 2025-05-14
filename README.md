@@ -105,4 +105,4 @@ The full project listings begin below. To avoid clutter here, each section is in
 
 ---
 
-👋 **Made by [@Duncan1738](https://github.com/Duncan1738)**
+👋 
