@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Duncan1738/Awesome-AI-Data-Guided-Projects/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Duncan1738/Awesome-AI-Data-Guided-Projects.svg" alt="License"/>
-  </a>
   <a href="https://github.com/Duncan1738/Awesome-AI-Data-Guided-Projects/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Duncan1738/Awesome-AI-Data-Guided-Projects.svg" alt="Contributors"/>
   </a>
@@ -35,6 +32,7 @@
     <img src="https://img.shields.io/github/watchers/Duncan1738/Awesome-AI-Data-Guided-Projects.svg?style=social&label=Watch" alt="Watchers"/>
   </a>
 </p>
+
 
 ---
 
