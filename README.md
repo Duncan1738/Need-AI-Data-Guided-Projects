@@ -136,7 +136,6 @@ Visit the [Wiki](https://github.com/Duncan1738/Awesome-AI-Data-Guided-Projects/w
 
 We welcome contributions from everyone! 🌍
 
-- 📘 Read our [Contributing Guidelines](../CONTRIBUTING.md)  
 - 📄 License: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)  
 
 > ⭐ **Star this repo** to stay updated.  
