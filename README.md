@@ -85,7 +85,12 @@ Explore more complex and real-world applications:
 - Real-time pose detection using MediaPipe and OpenCV
 - Deep reinforcement learning with Stable-Baselines3
 - TinyML projects with TensorFlow Lite and Arduino
-
+- [AI for Beginners by Microsoft](https://microsoft.github.io/AI-For-Beginners/) - Free 12-week curriculum on AI concepts and hands-on projects.
+- [100+ ML Projects with Source Code](https://www.geeksforgeeks.org/machine-learning-projects/) - Great variety of projects categorized by domain.
+- [Top 50 AI Projects](https://www.projectpro.io/article/top-10-machine-learning-projects-for-beginners-in-2021/397) - Industry-grade projects for learners.
+- [25 Projects for All Levels](https://www.datacamp.com/blog/machine-learning-projects-for-all-levels) - Sorted by beginner, intermediate, and advanced levels.
+- [End-to-End Kaggle ML Project Walkthrough](https://www.kaggle.com/code/harshwalia/end-to-end-ml-project-all-steps-in-detail) - Data prep, model building, evaluation and more.
+- [FreeCodeCamp ML Project Guide](https://www.freecodecamp.org/news/end-to-end-machine-learning-course-project/) - Complete beginner-friendly machine learning course project.
 ---
 
 ## Project List
