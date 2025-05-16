@@ -77,7 +77,7 @@ Beginner-friendly tutorials and guides to start working on impactful projects:
 - [Top 50 AI Projects](https://www.projectpro.io/article/top-10-machine-learning-projects-for-beginners-in-2021/397) - Industry-grade projects for learners.
 - [25 Projects for All Levels](https://www.datacamp.com/blog/machine-learning-projects-for-all-levels) - Sorted by beginner, intermediate, and advanced levels.
 - [End-to-End Kaggle ML Project Walkthrough](https://www.kaggle.com/code/harshwalia/end-to-end-ml-project-all-steps-in-detail) - Data prep, model building, evaluation and more.
-- [FreeCodeCamp ML Projec
+- [FreeCodeCamp ML Project Guide](https://www.freecodecamp.org/news/end-to-end-machine-learning-course-project/) - Complete beginner-friendly machine learning course project.
 
 ---
 
