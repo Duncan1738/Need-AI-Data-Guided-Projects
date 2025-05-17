@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Awesome AI & Data-Guided Projects</h1>
+<h1 align="center">Awesome AI & Data-Guided Projects</h1>
 
 <p align="center">
   <img src="https://awesome.re/badge.svg" alt="Awesome Badge"/>
