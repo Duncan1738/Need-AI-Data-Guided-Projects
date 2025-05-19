@@ -138,7 +138,7 @@ Visit the [Wiki](https://github.com/Duncan1738/Awesome-AI-Data-Guided-Projects/w
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone! 🌍
+We welcome contributions from everyone! 
 
 - 📄 License: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)  
 
@@ -148,4 +148,4 @@ We welcome contributions from everyone! 🌍
 ---
 
 <p align="center"><strong>🔄 More projects and curated guides coming soon... Stay tuned!</strong></p>
-<p align="center">🧠 Happy Learning!</p>
+<p align="center"> Happy Learning!</p>
