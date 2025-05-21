@@ -140,10 +140,10 @@ Visit the [Wiki](https://github.com/Duncan1738/Awesome-AI-Data-Guided-Projects/w
 
 We welcome contributions from everyone! 
 
-- 📄 License: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)  
+- License: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-> ⭐ **Star this repo** to stay updated.  
-> 🔁 **Fork it** and start building your own awesome projects.
+>  **Star this repo** to stay updated.  
+>  **Fork it** and start building your own awesome projects.
 
 ---
 
