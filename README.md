@@ -21,17 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Duncan1738/Awesome-AI-Data-Guided-Projects/stargazers">
-    <img src="https://img.shields.io/github/stars/Duncan1738/Awesome-AI-Data-Guided-Projects.svg?style=social&label=Star" alt="Stars"/>
-  </a>
-  <a href="https://github.com/Duncan1738/Awesome-AI-Data-Guided-Projects/network">
-    <img src="https://img.shields.io/github/forks/Duncan1738/Awesome-AI-Data-Guided-Projects.svg?style=social&label=Fork" alt="Forks"/>
-  </a>
-  <a href="https://github.com/Duncan1738/Awesome-AI-Data-Guided-Projects/watchers">
-    <img src="https://img.shields.io/github/watchers/Duncan1738/Awesome-AI-Data-Guided-Projects.svg?style=social&label=Watch" alt="Watchers"/>
-  </a>
-</p>
 
 
 ---
