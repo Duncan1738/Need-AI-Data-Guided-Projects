@@ -125,7 +125,7 @@ Visit the [Wiki](https://github.com/Duncan1738/Awesome-AI-Data-Guided-Projects/w
 - [End-to-End NLP Deployment with Huggingface, FastAPI, and Docker](https://medium.com/data-science/end-to-end-nlp-project-with-hugging-face-fastapi-and-docker-615a63d80c53)
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from everyone! 
 
